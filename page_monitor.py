@@ -107,7 +107,7 @@ while True:
         # Showing time so we know script is still working
         print 'No new threads. Time is', time.time()
     print
-    time.sleep(120)
+    time.sleep(15)
 
 
 
